@@ -1,0 +1,6 @@
+module Pods_async2_async2Tests {
+  umbrella header "Pods-async2-async2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
